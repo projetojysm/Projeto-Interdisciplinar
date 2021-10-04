@@ -14,6 +14,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.roxo{
+
+  background: #413e66;
+  color: #fff;
+}
+.outroroxo{
+  color: #413e66;
+}
 a {
   color: #1bb1dc;
   text-decoration: none;
@@ -367,7 +375,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
+  background: #90EE90 url("../img/intro-bg.jpg") center top no-repeat;
   background-size: cover;
   padding-top: 110px;
 }
@@ -471,7 +479,7 @@ section {
 /* Section with background
 --------------------------------*/
 .section-bg {
-  background: #f5f8fd;
+  background: #90EE90;
 }
 
 /* About Us Section
@@ -1317,7 +1325,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f5f8fd;
+  background: #90EE90;
 }
 
 #footer .footer-top .footer-info {
